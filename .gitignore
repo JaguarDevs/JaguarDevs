@@ -1,0 +1,25 @@
+# dependencies
+/node_modules
+
+# next
+/.next
+/out
+
+# testing
+/coverage
+
+# local
+.DS_Store
+*.pem
+.env*
+.edge-profile*
+lighthouse-*.json
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
